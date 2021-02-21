@@ -1,4 +1,4 @@
-# CoviDex
+![](./src/covidex-logo.png)
 ## Inspiration
 It was the unanimous cheer of agreement when Albert suggested this idea that we decided to pursue it. A cheer that indicated our common interest as a team in HackBeanpot 2021 to address an unfortunate event in history. We also considered how our project would allow us to best emphasize our own skill sets. Lastly, being in a pandemic, caring about the safety of others, and wanting to develop something unique also contributed to the main purpose of our project.
 
